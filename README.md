@@ -17,8 +17,8 @@
 </section>
 
 - 💻 I'm a full-stack developer and a veterinarian 👩🏻‍⚕️
-- 🔭 I am currently volunteering in a project as a full stack developer for "Adopta Un Junior", working on **NextJS, Tailwind, Typescript, MySQL and NodeJS**
-- 🌱 I am currently studying cybersecurity, object-oriented programming, and frameworks such as Next.js or NestJS.
+- 🔭 I am currently volunteering in a project as a full stack developer for "Adopta Un Junior", working on **NextJS, TailwindCSS, Typescript, MySQL and Java**
+- 🌱 I am currently studying cybersecurity, object-oriented programming, and frameworks such as Next.js or Angular.
 - 🚀 I'm eager to obtain my first job opportunity in a collaborative team environment with continuous challenges.
 - 📫 How to reach me: natalialopezariel@gmail.com
 
